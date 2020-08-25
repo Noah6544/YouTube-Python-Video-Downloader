@@ -7,3 +7,6 @@ If you want to use this follow these steps.
 
 I made this because I don't like having to stress over the worrying about viruses and whatnot with online downloaders. 
 the downside is that i don't think it gets videos over 1080p. sorry. i'll try to fix this later, but i'm entering high school now so i'm quite busy. no promises. let me know if this helps you!
+
+
+youll need the random, time, and pytube packages

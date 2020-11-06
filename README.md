@@ -13,10 +13,10 @@ I made this because I don't like having to stress over the worrying about viruse
 the downside is that i don't think it gets videos over 1080p. sorry. i'll try to fix this later, but i'm entering high school now so i'm quite busy. no promises. let me know if this helps you!
 # NECCESARY PACKAGES
 No packages are neccessary if you are using the compiled version, however if you aren' not using the compiled version you will need:
-1. Random
-2. Time
-3. Os
-5. Webbrowser
-6. Pytube
+- Random
+- Time
+- Os
+- Webbrowser
+- Pytube
 
 These packages are essential to make the program run.

@@ -1,1 +1,3 @@
-
+__pycache__/
+build/downloader/
+dist/downloader/
